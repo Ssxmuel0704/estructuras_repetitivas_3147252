@@ -1,0 +1,12 @@
+[1mdiff --git a/ciclo_while.py b/ciclo_while.py[m
+[1mindex c4e2c36..997be64 100644[m
+[1m--- a/ciclo_while.py[m
+[1m+++ b/ciclo_while.py[m
+[36m@@ -3,4 +3,4 @@[m [mi = 0[m
+ while i <= 5:[m
+     print(i)    [m
+     i = i + 1[m
+[31m-print("Fin de programa")[m
+\ No newline at end of file[m
+[32m+[m[32mprint("Fin de programa")git[m
+\ No newline at end of file[m
